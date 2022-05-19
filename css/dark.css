@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    background-color: black;
+    color: #636b6f !important;
+    font-family: 'Nunito',sans-serif !important;
+}
+.card {
+    background-color: #444;
+    color: #636b6f;
+}
+table {
+    margin: 25px auto !important;
+    background-color: red;
+}
+.logout {
+    margin-right : 5px !important;
+}
